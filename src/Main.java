@@ -4,6 +4,6 @@ class Main
     {
 
         System.out.println("YASh");
-        System.out.println("YASh");
+        System.out.println("savera");
     }
 }
