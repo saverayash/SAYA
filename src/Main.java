@@ -8,5 +8,7 @@ class Main
         System.out.println("AAA");
         System.out.println("savera");
         System.out.println("On main branch");
+        System.out.println("branch setting");
+
     }
 }
